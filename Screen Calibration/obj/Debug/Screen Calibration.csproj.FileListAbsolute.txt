@@ -1,0 +1,24 @@
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\bin\Debug\Screen Calibration.exe.config
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\bin\Debug\Screen Calibration.exe
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\bin\Debug\Screen Calibration.pdb
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.csprojAssemblyReference.cache
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Properties.Resources.resources
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Ventana_Acerca.resources
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Ventana_Depurador_Excepciones.resources
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Ventana_Principal.resources
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.csproj.GenerateResource.cache
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.exe
+C:\Users\Jupisoft\source\repos\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\bin\Debug\Screen Calibration.exe.config
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\bin\Debug\Screen Calibration.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\bin\Debug\Screen Calibration.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Properties.Resources.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Ventana_Acerca.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Ventana_Depurador_Excepciones.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen_Calibration.Ventana_Principal.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.csproj.GenerateResource.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Screen Calibration\Screen Calibration\obj\Debug\Screen Calibration.csprojAssemblyReference.cache
