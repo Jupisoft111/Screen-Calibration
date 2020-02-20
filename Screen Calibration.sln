@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen Calibration", "Screen Calibration\Screen Calibration.csproj", "{73289BF8-B74B-42AE-9F8D-5A4341BD974D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73289BF8-B74B-42AE-9F8D-5A4341BD974D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73289BF8-B74B-42AE-9F8D-5A4341BD974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73289BF8-B74B-42AE-9F8D-5A4341BD974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73289BF8-B74B-42AE-9F8D-5A4341BD974D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5723F803-4EF2-4DAC-B020-2B8C0A06EF9D}
+	EndGlobalSection
+EndGlobal
